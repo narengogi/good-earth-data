@@ -1,0 +1,101 @@
+òKx
+points-data(Ä idgroupIdtitlesizeauthor_names
+author_ids	publisherpublication_yearaverage_ratingdescription"
+1997"
+2002"
+2008"
+2010"
+2012"
+2015"
+2016"
+4820"
+8788"
+342747"
+634623"	
+4838707"	
+6849868"
+
+14404787"
+
+16198231"
+
+17163373"
+
+18280241"
+
+26759355"
+
+27178609"
+
+28052767"
+
+29092423"
+
+O'Reilly"
+
+Pimsleur"
+	Tyto alba"
+
+Verba vera"
+Erich Fromm"
+Alma Littera"
+Baltos lankos"
+HarperCollins"
+Jonas Avyzius"
+Paul Pimsleur"
+Jeffrey Archer"
+Kelsey Hightower"
+Mergina traukiny"
+1063732, 14726582"
+14534528, 14534529"
+Barbara Bissonnette"
+Polinos dienora≈°tis"
+Pabƒógimas i≈° laisvƒós"
+Kubernetes: Up & Running"
+Bardo nuotykiai ir ≈æygiai"
+Jessica Kingsley Publishers" 
+Paula Hawkins, Asta Morkuniene"!
+Polina Zerebcova, Indre Butkute"$
+"Not A Penny More, Not A Penny Less"n
+lThe Complete Guide to Getting a Job for People with Asperger's Syndrome: Find the Right Career and Get Hired"t
+rPimsleur Japanese Level 1 Lessons  1-5 MP3: Learn to Speak and Understand Japanese with Pimsleur Language Programs"†
+ù,,New York Times" bestseleris nr. 1
+Trileris, kuris pakeis jusu poziuri i kitu zmoniu gyvenima.
+Reicele kasdien vaziuoja priemiestiniu traukiniu tuo paciu marsrutu: is namu i Londona ir atgal. Pakeliui ji pravaziuoja prie pat gelezinkelio isikurusi namu kvartala. Traukinys beveik kaskart sustoja prie raudono semaforo signalo, tad ji kone kasdien mato vieno is tu namu gyventojus - pora, pusryciaujancia ar geriancia kava verandoje. Mato taip daznai, kad jauciasi beveik juos pazistanti, sugalvojo jiems net vardus: Dzese ir Dzeisonas. Ju gyvenimas, koki ji mato Reicele, tiesiog tobulas. Panasus i buvusi pacios Reiceles gyvenima.
+Bet karta ji isvysta kai ka, kas ja pribloskia. Tik akimirksnis - ir netrukus traukinys vel pajuda, taciau to pakanka. Staiga viskas pasikeicia. Neistengdama to nuslepti, Reicele papasakoja, ka zino policijai. Tolimesni ivykiai sokiruoja. Hickokiskas ielektrinantis trileris Dingusios fanams."©
+¶Polina Zerebcova - rasytoja publiciste, poete, labiausiai zinoma kaip dienorasciu, apimanciu jos vaikyste, paauglyste ir jaunyste - siems laikotarpiams teko du Cecenijos karai - autore. Nuo 2002 m. dirba zurnaliste. Rusijos zurnalistu sajungos nare, PEN klubo nare. Jeruzaleje pelne tarptautines Januso Korcako premijos diplomus dviejose nominacijose - apsakymo ir dokumentines prozos. 2012 m. apdovanota Andrejaus Sacharovo premijos ,,Uz zurnalistika, kaip poelgi" diplomu. Gavusi politini prieglobsti nuo 2013 m. gyvena Suomijoje. Jos ,,Dienorasciai" istisai arba dalimis isleisti rusu, anglu, ukrainieciu, suomiu, prancuzu, slovenu, vokieciu ir kt. kalbomis.
+Gimusi 1985 m. Grozne, Cecenijoje, Polina Zerebcova gyveno ten beveik iki dvidesimties metu. Ji laiko save kosmopolite, nes jos gimineje - ivairiausiu tautybiu atstovai. Seimos sukis - ,,Garbe ir tiesa uz gyvybe brangesnes". 1994 m. Polina pradeda rasyti dienorasti, kuriame fiksuoja visa, kas vyksta aplink. Mokykla, pirmoji meile, gincai su tevais - visa tai, kas pazistama kiekvienam paaugliui - Polinos gyvenime zenge kartu bombardavimais, badu, sugriovimais ir netektimis. 1999 m. per raketu ataka Grozno centrineje turgavieteje Polina buvo sunkiai suzeista skeveldru. Vaiko akimis zvelgdama i kara Polina nieko nekaltina, ji tik fiksuoja tai, ka mato savo akimis, ka patiria ji pati, jos artimieji, kaimynai ir bendramoksliai. Ir sie kasdienio gyvenimo faktai bei smulkmenos sukrecia labiau, nei bet kokia agitacija.
+,,Dabar gyvenu Suomijoje. As - politine pabegele. Visa savo gyvenima paskyriau tam, kad apie dienorascius, kuriuos rasiau per kara, budama vaikas, suzinotu visame pasaulyje. As pasakoju visa tai tam, kad zmones suprastu, kaip baisu per kara vaikams - rusams, cecenams, armenams, ingusams, gruzinams - visiems vaikams ir visiems zmonems. Suaugusieji privalo ismokti susitarti, o ne griebtis ginklu ir zudyti vieni kitus. As pries bet koki kara. As tik uz taika. Man tai tapo gyvenimo prasme. Isivaizduojate, kaip man sunku, kai zmones, is tiesu labai geri, saziningi, teisingi, sako, kad net jie negali nieko pakeisti? As suprantu, kaip baisiai ir kaip sudetingai viskas susikloste siandienineje Rusijoje" - sako Polina Zerebcova."∫
+
+∑
+Legend has it that Google deploys over two billion application containers a week. How's that possible? Google revealed the secret through a project called Kubernetes, an open source cluster orchestrator (based on its internal Borg system) that radically simplifies the task of building, deploying, and maintaining scalable distributed systems in the cloud. This practical guide shows you how Kubernetes and container technology can help you achieve new levels of velocity, agility, reliability, and efficiency.
+Authors Kelsey Hightower, Brendan Burns, and Joe Beda--who've worked on Kubernetes at Google--explain how this system fits into the lifecycle of a distributed application. You will learn how to use tools and APIs to automate scalable distributed systems, whether it is for online services, machine-learning applications, or a cluster of Raspberry Pi computers.
+Explore the distributed system challenges that Kubernetes addresses
+Dive into containerized application development, using containers such as Docker
+Create and run containers on Kubernetes, using Docker's Image format and container runtime
+Explore specialized objects essential for running applications in production
+Reliably roll out new software versions without downtime or errors
+Get examples of how to develop and deploy real-world applications in Kubernetes"Ã
+…ARCHERS 'FIRST TWO WORLDWIDE BESTSELLERS, NOW IN ONE VOLUME
+NOT A PENNY MORE, NOT A PENNY LESS
+One million dollars - that's what Harvey Metcalfe, lifelong king of shady deals, has pulled off with empty promises of an oil bonanza and instant riches. Overnight, four men - the heir to an earldom, a Harley Street doctor, a Bond Street art dealer and an Oxford don - find themselves penniless. But this time Harvey has swindled the wrong men. They band together and shadow him from the casinos of Monte Carlo to the high-stakes windows at Ascot and the hallowed lawns of Oxford. Their plan is simple: to sting the crook for exactly what they lost. To the penny.
+SHALL WE TELL THE PRESIDENT?
+At 7:30 one evening the FBI learn of a plot to kill Florentyna Kane - the first woman President of the United States - the 1572nd such threat of that year. At 8:30 five people know all the details. By 9:30 four of them are dead.
+FBI agent Mark Andrews alone knows when. He also knows that a senator is involved. He has six days to learn where - and how. Six days to prevent the certain death of the President."œ
+ÃThe Pimsleur(r) Method: the easiest, fastest way to learn a new language. Completely portable, easily downloadable, and lots of fun. You'll be speaking and understanding in no time flat! 
+This course includes Lesson 1-5 from the Japanese Level 1 program featuring 2.5 hours of language instruction. Each lesson provides 30 minutes of spoken language practice, with an introductory conversation, and new vocabulary and structures. Detailed instructions enable you to understand and participate in the conversation. Practice for vocabulary introduced in previous lessons is included in each lesson. The emphasis is on pronunciation and comprehension, and on learning to speak Japanese. A User's Guide is included.
+The Japanese Language
+Japanese is spoken by about 130 million people, 122 million of whom are in Japan. There are also speakers in the Ryukyu Islands, Korea, Taiwan, parts of the United States, and Brazil. Japanese has many "registers" or levels of politeness. Pimsleur's Japanese courses will teach you how to speak at a polite register, which is appropriate in virtually any situation you are likely to encounter in Japan.
+Tech Talk
+- Lessons can be downloaded using the Pimsleur Course Manager App for iPad, iPhone and Android devices, and Mac or Windows computers, or
+- Lessons can be downloaded as a zip file for use in iTunes or Windows Media Player.
+- All purchased courses are backed up in your Pimsleur.com cloud-based digital library account.
+- Lessons can be played on your iPod or any MP3 player.
+- The Pimsleur Course Manager App can be installed on several devices for personal use only.
+- Lessons are non-DRM (Digital Rights Management) MP3 files and can be copied onto a CD or DVD for playing in a CD/DVD player."“
+œApysaka apie niufaundlenda Barda, krecianti smagias isdaigas, uz meile atsidekojanti meile ir visada pasiryzusi paaukoti gyvybe uz zmogu, kuriame jo narsi, klastos nepripazistanti sirdis surado tikra drauga."‰
+·Finding a job is a confusing and anxiety-provoking process for many individuals with Asperger's Syndrome (AS) who may not know what they are qualified to do and may struggle to communicate their value to employers. In this book, Asperger's employment expert Barbara Bissonnette describes exactly what it takes to get hired in the neurotypical workplace."Û
+Laisve siuolaikiniam zmogui turi dvejopa prasme - jis issivadavo is ankstesnes valdzios ir tapo individas, bet kartu pasidare izoliuotas, bejegis isoriniu tikslu irankis, svetimas sau ir kitiems. Tai pagrindine sios E. Frommo knygos mintis."	
+◊£p=
+@"	R∏ÖÎQ@"	\è¬ı(\@"	ffffff@"	è¬ı(\è@"	ÕÃÃÃÃÃ@"	ÏQ∏ÖÎ@" " " " " " " %" -" g F%?+#<	0"	9‰6 F&>=	6"	ƒú F(A:	4"	é¢' F'C ;	1"	¥¬; F-B$)9	5"	ú ä 
+F,E @	2"	ò3‰ F!D*"7	/"	‡9§ F.?	8	3"	Ï<å	

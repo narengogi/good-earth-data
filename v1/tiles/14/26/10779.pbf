@@ -1,0 +1,98 @@
+üPx
+points-data(€ idgroupIdtitlesizeauthor_names
+author_ids	publisherpublication_yearaverage_ratingdescription"
+1985"
+1999"
+2006"
+2007"
+2008"
+2010"
+2011"
+2012"
+2013"
+29482"
+94801"
+118459"
+135297"
+179210"
+230717"
+295297"
+325376"
+598645"
+854076"	
+1551068"	
+4490762"	
+6739968"	
+9815847"
+
+16044699"
+
+18079237"
+
+Vertical"
+
+BiblioLife"
+
+Jeff Langr"
+
+Nick Marsh"
+A Book Apart"
+Erin Kissane"
+Osamu Tezuka"
+104409, 38239"
+722104, 51975"
+Simon Van Booy"
+Westview Press"
+William S. Lind"
+Harper Perennial"
+In the South Seas"
+Pragmatic Bookshelf"
+The Express Diaries"
+Innsmouth House Press"
+Robert Louis Stevenson"
+Maneuver Warfare Handbook"
+Cambridge University Press"
+Addison-Wesley Professional"
+Buddha: Volume 3: Devadatta" 
+Why Our Decisions Don't Matter""
+ The Elements of Content Strategy"#
+!Krzysztof R. Apt, Mark    Wallace")
+'Meilir Page-Jones, Larry L. Constantine",
+*Constraint Logic Programming Using Eclipse"/
+-Fundamentals of Object-Oriented Design in UML"P
+NModern C++ Programming with Test-Driven Development: Code Better, Sleep Better"ƒ
+€This is a pre-1923 historical reproduction that was curated for quality. Quality assurance was conducted on each of these books in an attempt to remove books with imperfections introduced by the digitization process. Though we have made best efforts - the books may have occasional errors that do not impede the reading experience. We believe this work is culturally important and have elected to bring the book back into print as part of our continuing commitment to the preservation of printed works worldwide."”
+
+‘
+'And so, my friends,' he said, looking back at each one of us in turn, 'it falls to me to pass this burden to someone other than myself. I dare not ask, yet I hope that you will take it for me. The statue must be recovered and destroyed before these men find it.'
+____________
+EUROPE, 1925. The continent still licks its wounds from the devastating war that raged across it a few years before. Meanwhile, in London, an ageing professor has uncovered the clues to the whereabouts of pieces of an ancient statue, all but forgotten by history.
+When his investigations lead him to fear for his life, he enlists the aid of an unlikely group of allies; a retired colonel, a secretive academic, a magician's wife, and a Yorkshire matriarch with her reluctant assistant.
+Together they will journey across Europe to recover the long-lost statue. They will travel in style, on the most luxurious train the world has ever seen. Unbeknownst to them, however, their activities have already attracted the attention of a sinister cult, desperate to acquire the artefact for their own dark purposes, and now a terrible creature, trapped for centuries, senses that the opportunity for revenge has come at last...
+THE EXPRESS DIARIES is a tale of a journey into darkness and horror on the world's most famous train."—
+”Content strategy is the web's hottest new thing. But where did it come from? And why does it matter? And what does the content renaissance mean for you? This brief guide explores content strategy's roots, and quickly and expertly demonstrates not only how it's done, but how you can do it well. A compelling read for both experienced content strategists and those making the transition from other fields."«
+¨Constraint logic programming lies at the intersection of logic programming, optimisation and artificial intelligence. It has proved a successful tool in many areas including production planning, transportation scheduling, numerical analysis and bioinformatics. Eclipse is one of the leading software systems that realise its underlying methodology. Eclipse is exploited commercially by Cisco, and is freely available and used for teaching and research in over 500 universities. This book has a two-fold purpose. It's an introduction to constraint programming, appropriate for one-semester courses for upper undergraduate or graduate students in computer science or for programmers wishing to master the practical aspects of constraint programming. By the end of the book, the reader will be able to understand and write constraint programs that solve complex problems. Second, it provides a systematic introduction to the Eclipse system through carefully-chosen examples that guide the reader through the language and illustrate its power, versatility and utility."®
+«Provocative and eye-opening, Why Our Decisions Don't Matter is one of three slim selections of philosophical texts and excerpts--along with Why We Need Love andWhy We Fight--introduced and contextualized by acclaimed author Simon Van Booy (Love Begins in Winter, The Secret Lives of People in Love)."³	
+°	Object technology is increasingly recognized as a valuable tool in application development, but what is not yet recognized is the importance of design in the construction of robust and adaptable object-oriented (OO) applications. With the recent introduction and widespread adoption of the Unified Modeling Language (UML), programmers are now equipped with a powerful tool for expressing software designs. Fundamentals of Object-Oriented Design in UML shows aspiring and experienced programmers alike how to apply design concepts, the UML, and the best practices in OO development to improve both their code and their success rates with object-based projects. In the first two chapters, best-selling author Meilir Page-Jones introduces novices to key concepts and terminology, demystifying the jargon, and providing a context in which to view object orientation. Part II is a practical and well-illustrated guide to UML notation and to building the most useful UML diagrams. Part III grapples with advanced topics in the testing and improvement of design quality, including connascence, level-2 encapsulation, and the use of state-space and behavior to assess class hierarchies. These design principl"·
+´If you program in C++ you've been neglected. Test-driven development (TDD) is a modern software development practice that can dramatically reduce the number of defects in systems, produce more maintainable code, and give you the confidence to change your software to meet changing needs. But C++ programmers have been ignored by those promoting TDD--until now. In this book, Jeff Langr gives you hands-on lessons in the challenges and rewards of doing TDD in C++.
+Modern C++ Programming With Test-Driven Development, the only comprehensive treatment on TDD in C++ provides you with everything you need to know about TDD, and the challenges and benefits of implementing it in your C++ systems. Its many detailed code examples take you step-by-step from TDD basics to advanced concepts. As a veteran C++ programmer, you're already writing high-quality code, and you work hard to maintain code quality. It doesn't have to be that hard.
+In this book, you'll learn:
+how to use TDD to improve legacy C++ systems
+how to identify and deal with troublesome system dependencies
+how to do dependency injection, which is particularly tricky in C++
+how to use testing tools for C++ that aid TDD
+new C++11 features that facilitate TDD
+As you grow in TDD mastery, you'll discover how to keep a massive C++ system from becoming a design mess over time, as well as particular C++ trouble spots to avoid. You'll find out how to prevent your tests from being a maintenance burden and how to think in TDD without giving up your hard-won C++ skills. Finally, you'll see how to grow and sustain TDD in your team.
+Whether you're a complete unit-testing novice or an experienced tester, this book will lead you to mastery of test-driven development in C++.
+What You Need
+A C++ compiler running under Windows or Linux, preferably one that supports C++11. Examples presented in the book were built under gcc 4.7.2.
+Google Mock 1.6 (downloadable for free; it contains Google Test as well) or an alternate C++ unit testing tool. Most examples in the book are written for Google Mock, but it isn't difficult to translate them to your tool of choice.
+A good programmer's editor or IDE.
+cmake, preferably. Of course, you can use your own preferred make too. CMakeLists.txt files are provided for each project. Examples provided were built using cmake version 2.8.9.
+Various freely-available third-party libraries are used as the basis for examples in the book. These include: - cURL - JsonCpp - Boost (filesystem, date_time/gregorian, algorithm, assign) Several examples use the boost headers/libraries. Only one example uses cURL and JsonCpp."ß
+ÜThe Eisner and Harvey Winner
+The third volume of this epic graphic novel send Siddhartha further into a world mired in pain and suffering. The journey to peace and enlightenment looms far but bright.
+Prince Siddhartha quickly learns that the monk's path is covered in thorns and self-abuses much more profound than shaving your head. His new companions Dhepa and Assaji accompany him to plague-ridden town, ruled by the ravashing Visakha. On a different path filled with as many vararies is Devadatta, an orphan who learns only that bad almost always gets worse.
+To strange cities, and dire prophecies..."ô
+ñManeuver warfare, often controversial and requiring operational and tactical innovation, poses perhaps the most important doctrinal questions currently facing the conventional military forces of the U.S. Its purpose is to defeat the enemy by disrupting the opponent's ability to react, rather than by physical destruction of forces. This book develops and explains the theory of maneuver warfare and offers specific tactical, operational, and organizational recommendations for improving ground combat forces. The authors translate concepts--too often vaguely stated by manuever warfare advocates--into concrete doctrine. Although the book uses the Marine Corps as a model, the concepts, tactics, and doctrine discussed apply to any ground combat force."  ˆ@"	…ëQ¸@"	Ház®G@"	…ëQ¸…@"	š™™™™™@"	®Gáz®@"	®Gáz®@"	ìQ¸…ë@" " " " " " " 3" 8" I" – L(N
+)C	7"	þš L&K*@	6"	ˆÊ L5I'E	<"	Ä¢( L3G1!,?	9"	èÐ/ L+J$# F	>"	ö/¶ L/O"%A	:"	ª4Â L0PD	8"	ê>ø L.M	?	="	ö(Ä' L4H2 -B	;"	à7–"
