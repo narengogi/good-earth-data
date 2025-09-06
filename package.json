@@ -1,0 +1,12 @@
+{
+  "name": "data-server",
+  "version": "1.0.0",
+  "description": "A simple Node.js server to serve static files.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
