@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "geometry": {"type": "LineString", "coordinates": [[159.27194787757907, 69.22977090375], [159.271534000558, 69.22972537232874]]}, "properties": {"source": "18934010", "target": "18487359"}}]}
