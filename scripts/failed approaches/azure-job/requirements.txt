@@ -1,0 +1,10 @@
+leidenalg
+igraph
+numpy
+pandas
+scipy
+scikit-learn
+scikit-image
+scikit-image
+pyarrow
+neo4j
